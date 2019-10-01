@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title> Terraria, c'est quoi? </title>
+		<link rel="stylesheet" href="TestCSSTerraria.css">
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+</head>
+
+<body background="https://images8.alphacoders.com/421/thumb-1920-421705.jpg">
+	<h1> Anecdotes </h1>
+	<ul>
+		<li> Lors de sa sortie le 11 mai 2011 sur Windows, le jeu se vend à 50 000 unités
+		<br> le premier jour puis 200 000 dans la semaine</li>
+		<li> Une suite du jeu nommé Terraria: Otherworld est annoncé en 2013</li>
+		<li> Le projet sera annulé pour plusieurs raisons le 12 avril 2018</li>
+		<li> A sa sortie le jeu reçoit des score de 83/100 pour <a href="https://www.metacritic.com/">Metacritic</a>,
+		<br> 9/10 chez <a href="https://www.gamezone.com/">Gamezone</a> et 16/20 pour <a href="https://www.jeuxvideo.com/">Jeuxvideo.com</a></li>
+	</ul>
+	<ul class="menu">
+		<li class="blue"> <a href="Terraria.html"> Terraria </li></a>
+		<li class="green"> <a href="SysTerr.html"> Système du jeu </li></a>
+		<li class="brown"> <a href="ButTerr.html"> But du jeu </li></a>
+		<li class="gray"> <a href="AnecTerr.html"> Anecdotes </li></a>
+		<li class="red"> <a href="LienTerr.html"> Liens </li></a>
+	</ul>
+	<address>Fait le 01/10/2019<br>
+  par Lelio Armand.</address>
+</body>
+</html>
