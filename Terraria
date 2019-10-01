@@ -1,0 +1,30 @@
+<!-- css inspiré de "monstyle.css" par Yves Mercadier -->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title> Terraria, c'est quoi? </title>
+		<link rel="stylesheet" href="TestCSSTerraria.css">
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+</head>
+
+<body background="https://images8.alphacoders.com/421/thumb-1920-421705.jpg">
+	<h1> Terraria! </h1>
+	<p> Terraria est un jeu vidéo indépendant de type action-aventure et bac à sable développé par 
+		<br> Re-Logic et sorti sur Windows, Xbox Live, PlayStation Network, Wii U, Switch, Android et iOS. 
+		<br> Le jeu propose d'explorer, de fabriquer des objets, de construire des habitations et de 
+		<br> combattre des créatures variées dans un monde en 2D généré aléatoirement. </p>
+	<ul class="menu">
+		<li class="blue"> <a href="Terraria.html"> Terraria </li></a>
+		<li class="green"> <a href="SysTerr.html"> Système du jeu </li></a>
+		<li class="brown"> <a href="ButTerr.html"> But du jeu </li></a>
+		<li class="gray"> <a href="AnecTerr.html"> Anecdotes </li></a>
+		<li class="red"> <a href="LienTerr.html"> Liens </li></a>
+	</ul>
+	<address>Fait le 01/10/2019<br>
+  par Lelio Armand.</address>
+	</body>
+
+</html>
