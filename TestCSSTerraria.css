@@ -11,7 +11,8 @@ h1 {
   color: #EEB211;
   font-size: 300%}
 p {
-  font-family: Georgia, sans-serif }
+  font-family: Georgia, sans-serif;
+  width: 42em}
 ul.menu {
   list-style-type: none;
   padding: 0;
@@ -60,6 +61,8 @@ ul.menu li.red {
   width: 8em }
 ul.menu li.red:hover {
   background: white}
+ul.Anec li {
+  width: 42em}
 ul.website {
   font-family: Helvetica}
 ul.menu a {
